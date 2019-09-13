@@ -7,27 +7,33 @@
   "ascent": 850,
   "glyphs": [
     {
+      "uid": "bf882b30900da12fca090d9796bc3030",
+      "css": "mail",
+      "code": 59392,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "33cea6d7bd699348c0d593e105361a51",
+      "css": "facebook-circled",
+      "code": 59393,
+      "src": "typicons"
+    },
+    {
       "uid": "b86600decaba538aca184421752cd640",
       "css": "soundcloud",
       "code": 62280,
       "src": "entypo"
     },
     {
-      "uid": "33cea6d7bd699348c0d593e105361a51",
-      "css": "facebook-circled-1",
-      "code": 59392,
-      "src": "typicons"
+      "uid": "47a1f80457068fbeab69fdb83d7d0817",
+      "css": "youtube-play",
+      "code": 61802,
+      "src": "fontawesome"
     },
     {
       "uid": "4c1ef492f1d2c39a2250ae457cee2a6e",
       "css": "instagram",
       "code": 61805,
-      "src": "fontawesome"
-    },
-    {
-      "uid": "47a1f80457068fbeab69fdb83d7d0817",
-      "css": "youtube-play",
-      "code": 61802,
       "src": "fontawesome"
     }
   ]

@@ -1,12 +1,12 @@
 html{
-
+    background-color: #171717;
 }
 body{
-    
+    margin: auto;
 }
-
 .bar__nocto{
     text-align: center;
+    width: 100%;
     background-color: burlywood;
     height: 200px;
 }
