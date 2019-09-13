@@ -1,0 +1,10 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.bar__social__media{
+    background-color: antiquewhite;
+    text-align: center;
+    width: 300px;
+}
