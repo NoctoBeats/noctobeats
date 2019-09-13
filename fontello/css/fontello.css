@@ -55,7 +55,7 @@
   /* text-shadow: 1px 1px 1px rgba(127, 127, 127, 0.3); */
 }
  
-.icon-facebook-circled-1:before { content: '\e800'; font-size: 50px; color: #4668b3;} /* '' */
-.icon-youtube-play:before { content: '\f16a'; font-size: 50px; color: #d94348;} /* '' */
-.icon-instagram:before { content: '\f16d'; font-size: 50px; color: rebeccapurple;} /* '' */
-.icon-soundcloud:before { content: '\f348'; font-size: 50px;color: orangered;} /* '' */
+.icon-facebook-circled-1:before { content: '\e800';color: #ffffff;} /* '' */
+.icon-youtube-play:before { content: '\f16a';color: #ffffff;} /* '' */
+.icon-instagram:before { content: '\f16d';color: #ffffff;} /* '' */
+.icon-soundcloud:before { content: '\f348';color: #ffffff;} /* '' */
