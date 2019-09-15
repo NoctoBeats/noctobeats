@@ -4,16 +4,20 @@ html{
 body{
     margin: auto;
 }
+
+.tlo{
+    background-image: url(img/tlo.png);
+    height: 1800px;
+}
+
 .bar__nocto{
     text-align: center;
-    width: 100%;
-    background-color: burlywood;
-    height: 200px;
+    padding: 80px 0 0 0;
 }
 
 .bar__email{
     font-size: 30px;
-    background-color: blue;
+    background-color: gray;
     text-align: center;
 }
 
@@ -24,16 +28,17 @@ body{
 }
 .bar__copyright{
     text-align: center;
-    background-color: blueviolet;
+    background-color: white;
     font-size: 20px;
 } 
 
 .bar__beststars{
     text-align: center;
-    background-color: chartreuse;
-    height: 1000px;
+    position: relative;
+    height: 800px;
+    padding: 0 0 0 0;
 }
 
 iframe{
-    padding: 100px;
+    padding: 100px 0 0 0;
 }
